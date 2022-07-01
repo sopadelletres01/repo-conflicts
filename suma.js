@@ -5,7 +5,7 @@ function suma(n1,n2){
 function resta(n1,n2){
   return n1 - n2
 }
-
+//los que trabajan con APP DESKTOP BORRAR ESTA FUNCION
 function multiplicacion(n1,n2){
   return n1 * n2
 }
