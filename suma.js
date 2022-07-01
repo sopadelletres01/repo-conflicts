@@ -16,11 +16,11 @@ function division(n1,n2){
 }
 
 
-console.log(suma(2, 4))
+console.log(suma(3, 1))
 
 
 //pasale a esta funcion lo que tu quieras
-console.log(resta())
+console.log(resta(2,9))
 
 console.log(multiplicacion());
 console.log(division())
